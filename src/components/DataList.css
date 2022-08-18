@@ -1,0 +1,17 @@
+.pageStyle {
+    margin: 10px 10px 10px 10px;
+}
+
+.dispRowCountStyle {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.selectStyle {
+    margin-left: 10px;
+    width: 50px;   
+}
+
+.tableStyle {
+    margin: 10px 10px 10px 10px;
+}
